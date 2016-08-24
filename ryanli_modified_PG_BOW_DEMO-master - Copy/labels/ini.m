@@ -1,0 +1,1 @@
+pre_data_path='C:\Users\Ryan\Google Drive\Junior II\ELEC 345\Assignment 6\ryanli_modified_PG_BOW_DEMO-master\images\';
